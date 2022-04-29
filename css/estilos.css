@@ -1,0 +1,11 @@
+
+    footer .copyright {
+    padding: 15px 0;
+    background: #666666;
+    margin-top: 20px;
+    font-size: 1.5rem;    text-align: center;
+    color: aliceblue;
+    }
+    footer .copyright span {
+    color: #C3D730;
+    }
